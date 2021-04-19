@@ -356,7 +356,7 @@ const Status = (props) => {
 const App = () => {
   let currentYear = 2020
   let birthYear = 2015
-  const age = currentYear - birthYear // 15 years
+  const age = currentYear - birthYear // 5 years
 
   let status = age >= 18
 
