@@ -398,7 +398,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.render(<App />, rootElement)
 ```
 
-As you can see in the above example, to get the data out from props we have write _props.data_ every time. We can avoid this repetition using destructuring.
+As you can see in the above example, to get the data out from props we have to write _props.data_ every time. We can avoid this repetition using destructuring.
 
 ```js
 // index.js
