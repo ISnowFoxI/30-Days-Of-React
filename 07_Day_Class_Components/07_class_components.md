@@ -346,7 +346,7 @@ ReactDOM.render(<App />, rootElement)
 
 ## Accessing props in Class components
 
-We stated that props is a means to send data from on component to another or we can call it that props is a data carrier. Therefore, we should handle props in class based component too. We can access props of a class based component using the keyword _this_. See the example below.
+We stated that props is a means to send data from one component to another or we can call it that props is a data carrier. Therefore, we should handle props in class based component too. We can access props of a class based component using the keyword _this_. See the example below.
 
 ```js
 // index.js
